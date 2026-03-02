@@ -19,7 +19,7 @@ This project is useful for:
 
  - Universal (Isomorphic) Javascript Application
  - Use of Webpack 2's Code Splitting and Tree Shaking features
- - Asyncronous Redux actions example
+ - Asynchronous Redux actions example
  - Use of RethinkDB Changefeeds for realtime updates reflected in the UI
 
 ### Demo
